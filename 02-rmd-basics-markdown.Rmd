@@ -1,6 +1,8 @@
 ---
 #########################################
-# options for knitting a single chapter #
+# options for knitting a single chapter 
+# https://www.youtube.com/watch?v=-EJfCA3VA-I&t=9s
+# https://github.com/ulyngs/oxforddown
 #########################################
 output:
   bookdown::pdf_document2:
